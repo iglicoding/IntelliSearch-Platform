@@ -1,0 +1,12 @@
+# Architecture
+
+The platform follows a cloud-native architecture designed for scalability, reliability, and maintainability.
+
+Components:
+
+- React Frontend
+- NestJS API Layer
+- PostgreSQL Database
+- Redis Cache
+- AWS Infrastructure
+- OpenAI Integration
